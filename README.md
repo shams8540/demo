@@ -1,2 +1,2 @@
 # demo
-this is demo to learn git
+hello i am learning github today 
